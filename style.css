@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+.question {
+    margin-bottom: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif   
+}
+.true {
+    color: green;
+}
+.false {
+    color: red;
+}
+.correct-answer {
+    font-weight: bold;
+}
+button {
+    margin-left: 10px;
+    
+}
+
+.question{
+    text-align: center;
+}
+
